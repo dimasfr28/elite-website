@@ -1,0 +1,55 @@
+.head{
+    text-align: center;
+}
+.head p.elite{
+    padding-top: -15px;
+    font-size: 19px;
+}
+.head p.smkn{
+    font-size: 19px;
+}
+.head p.elite1{
+    padding-top: -15px;
+}
+.head p.elite2{
+    padding-top: -15px;
+    padding-bottom: -25px;
+}
+p.date{
+    padding-top: -15px;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-radius: 0.25em;
+    border-collapse: collapse;
+    margin: 1em;
+    border : 1px solid rgb(0, 0, 0);
+    margin-top: 20px;
+  }  
+th.tr1{
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(0, 0, 0);
+    font-weight: 800;
+    text-align: left;
+    background-color: rgb(216, 214, 214);
+    font-size: 16px;
+    text-align: center;
+}
+td{
+    background-color: #ffffff;
+    color: #494949;
+    font-weight: 800;
+    text-align: left;
+    border: 1px solid rgb(0, 0, 0);
+    font-size: 15px;
+}th.tr2{
+    border: 1px solid rgb(0, 0, 0);
+    color: white;
+    font-weight: 800;
+    text-align: left;
+    background-color: rgb(216, 214, 214);
+    font-size: 16px;
+    text-align: center;
+}

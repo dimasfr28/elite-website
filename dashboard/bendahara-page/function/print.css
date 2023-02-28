@@ -1,0 +1,60 @@
+.head{
+    text-align: center;
+}
+.head p.elite{
+    padding-top: -15px;
+    font-size: 19px;
+}
+.head p.smkn{
+    font-size: 19px;
+}
+.head p.elite1{
+    padding-top: -15px;
+}
+.head p.elite2{
+    padding-top: -15px;
+    padding-bottom: -25px;
+}
+p.date{
+    padding-top: -15px;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    margin: 1em;
+    border-bottom : 1px solid rgb(0, 0, 0);
+    margin-top: 20px;
+    border-top : 1px solid rgb(0, 0, 0);
+  }  
+tr th{
+    font-size: 16px;
+    text-align: left;
+}
+tr td.pem{
+    padding-left: 30px;
+    font-size: 15px;
+}
+tr td.tot{
+    border-bottom: 1px solid rgb(0, 0, 0);
+    font-size: 15px;
+    font-weight: bold;
+}
+tr th.salhir1{
+    font-weight: bold;
+    font-size: 16px;
+    text-align: right;
+    padding-right: 50px;
+    border-top : 1px solid rgb(0, 0, 0);
+}
+tr th.salhir{
+    border-top : 1px solid rgb(0, 0, 0);
+    font-weight: bold;
+    font-size: 16px;
+}
+tr td.seb{
+    padding-left: 30px;
+    font-size: 15px;
+    border-bottom : 1px solid rgb(0, 0, 0);
+}
