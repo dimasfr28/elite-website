@@ -368,12 +368,6 @@ Project ini dibuat untuk keperluan internal ekstrakurikuler robotika SMKN 2 Sura
 **ELITE - Electronic Innovation Center**
 Ekstrakurikuler Robotika SMKN 2 Surabaya
 
-## 📞 Kontak
-
-- **Website**: [SMKN 2 Surabaya](https://www.smkn2-sby.sch.id)
-- **Location**: SMK Negeri 2 Surabaya
-- **Email**: Contact via website
-
 ## 🔄 Changelog
 
 ### Version 1.0.0 (Current)
@@ -426,3 +420,4 @@ $_SESSION['login'] = [
 **Dibuat dengan ❤️ oleh Tim ELITE - SMKN 2 Surabaya**
 
 *"Electronic Innovation Center - Innovate, Create, Compete"*
+
